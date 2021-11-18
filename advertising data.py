@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 """
-To check if the user will click on the ad or not
+To check whether the user will click on the ad or not
 
 step1 - analysing using:-
 
