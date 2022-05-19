@@ -7,8 +7,8 @@ This model predicts whether the user will click on an advertisment or not based 
 
 # Solution
   analysing using
-     - histogram of age
-     - create a joint plot showing area of income vs age
+     - histogram of age.
+     - create a joint plot showing area of income vs age.
      - create a joint plot showing the kde distribution of daily time spent on site vs age
      - create a joint plot of 'Daily Time Spent on Site' vs 'Daily Internet Usage'
      - create a pair plot with hue defined by the 'Clicked on Ad' column feature step2
